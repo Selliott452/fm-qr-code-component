@@ -23,8 +23,8 @@ My first attempt at creating something using pure CSS/HTML. In my journey to imp
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-and-css-solution-first-attempt-at-frontend-design-kDStDp_Td8#comment-644515b3a70796c0f93f31a7)
-- Live Site URL: [Add live site URL here](https://selliott452.github.io/fm-qr-code-component/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/html-and-css-solution-first-attempt-at-frontend-design-kDStDp_Td8#comment-644515b3a70796c0f93f31a7)
+- Live Site URL: [here](https://selliott452.github.io/fm-qr-code-component/)
 
 ### Built with
 
